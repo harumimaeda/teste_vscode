@@ -1,1 +1,4 @@
 teste
+
+oi
+esse é o meu primeiro commit depois de toda a treta de configurar
